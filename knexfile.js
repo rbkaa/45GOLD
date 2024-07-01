@@ -10,7 +10,7 @@ module.exports = {
     connection: {
       host: 'localhost',
       port: 5432,
-      //database: "nami",
+      database: "naminami",
       user: 'postgres',
       password: 'admin',
     },
